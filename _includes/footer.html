@@ -3,20 +3,17 @@
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.location }}</h3>
-                        <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
+                   <!--  <div class="footer-col col-md-4">
+                        <h3>CONTACT</h3>
+                        <p>Feel free to get in touch, I'm always happy to meet new people in the industry.
                         </p>
-                    </div>
+                    </div> -->
                     <div class="footer-col col-md-4">
-                        <h3>{{ site.footer.social }}</h3>
+                        <h3>AROUND THE WEB</h3>
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                <a href="https://uk.linkedin.com/in/nye-jones-80824815" class="btn-social btn-outline"><img src="/img/linkedin-variation.png"></a>
                             </li>
 		                    {% endfor %}
                         </ul>
