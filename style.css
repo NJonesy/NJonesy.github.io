@@ -208,8 +208,9 @@ section.success {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
-    width: 375px;
-    height: 215px;
+    width: 580px;
+    height: 250px;
+
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -217,6 +218,7 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    margin-top: 15px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
