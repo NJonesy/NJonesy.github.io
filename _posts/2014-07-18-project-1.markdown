@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: cop.png
 alt: image-alt
-site-url: <a href="https://facebook.com">West Coast Whack a Cop</a>
+site-url: <a href="https://whack-a-cop.herokuapp.com/">West Coast Whack a Cop</a>
 client: Start Bootstrap
 category: Web Development
 description: Our first project brief was to make a JS game. I wated my game to be comical and tongue-in-cheek so I played on my love of old-school West Coast Hip hop and just had fun with it.

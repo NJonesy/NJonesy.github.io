@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: group.png
 alt: image-alt
-site-url: <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Pet Sitters</a>
+site-url: <a href="http://amogower.github.io/project-3-front-end/">Pet Sitters</a>
 client: Start Bootstrap
 category: Web Development
 description: I loved working on this project, working in a team carried a new challenge, but one I thrived on. The primary tech was Node and Ajax, and we set out to create something we felt demonstrated a real business/revenue mindset.
