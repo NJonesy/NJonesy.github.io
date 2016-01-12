@@ -2,17 +2,12 @@
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: GetAGame.png
+img: HTO screenshot.png
 alt: image-alt
-site-url: <a href="http://njonesy.github.io/Project4-front-end/#/">Get A Game</a>
+site-url: <a href="https://serene-forest-8671.herokuapp.com/teams/sign_up">Half-time Oranges</a>
 client: Start Bootstrap
 category: Web Development
-description: The final project was of course meant to reflect the progress made thrugh the course and I wanted to showcase my new skillset. I believe I did so through this Node/Angluar JS app, bringing a longstanding idea to life.
+description: Project 2 was to create a Ruby on Rails app. I wanted to bring together a social media element with one of my great hobbies, 5-a-side football.
 
 ---
 
-The final project was of course meant to 
-reflect the progress made thrugh the course
-and I wanted to showcase my new skillset.
-I believe I did so through this Node/Angluar
-JS app, bringing a longstanding idea to life.
