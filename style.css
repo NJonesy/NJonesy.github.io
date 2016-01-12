@@ -352,7 +352,8 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #3C54A2;
+    background: url('http://insulinpumpfashions.com/images/swatches/blue_denim.jpg');
+    background-size: cover;
 }
 
 footer .footer-col {
@@ -361,7 +362,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #352C65;
+    background-color: #131313;
 }
 
 .btn-social {
