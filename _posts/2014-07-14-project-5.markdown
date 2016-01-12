@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2014-07-14
-img: GetAGame.png
+img: getagame_screenshot.png
 alt: image-alt
 site-url: <a href="http://njonesy.github.io/Project4-front-end/#/">Get A Game</a>
 client: Start Bootstrap

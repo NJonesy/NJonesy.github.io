@@ -89,7 +89,8 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #AA3939;
+    background: url("http://insulinpumpfashions.com/images/swatches/blue_denim.jpg");
+    background-size: cover;
 }
 
 header .container {
@@ -150,6 +151,7 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
+        background-color: #131313;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
@@ -161,7 +163,6 @@ header .intro-text .skills {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
-    background-color: #3C54A2;
 }
 
 .navbar a:focus {
@@ -192,7 +193,8 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #AA3939;
+    background: url("http://insulinpumpfashions.com/images/swatches/blue_denim.jpg");
+    background-size: cover;
 }
 
 @media(max-width:767px) {
@@ -371,6 +373,7 @@ footer .footer-below {
     text-align: center;
     font-size: 20px;
     line-height: 45px;
+    background: url("img/linkedin-variation.png");
 }
 
 .btn:focus,

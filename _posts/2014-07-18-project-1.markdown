@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cop.png
+img: whack-a-cop.png
 alt: image-alt
 site-url: <a href="https://whack-a-cop.herokuapp.com/">West Coast Whack a Cop</a>
 client: Start Bootstrap
