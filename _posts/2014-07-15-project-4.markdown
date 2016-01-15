@@ -8,7 +8,7 @@ alt: image-alt
 site-url: <a href="https://serene-forest-8671.herokuapp.com/teams/sign_up">Half-time Oranges</a>
 client: Start Bootstrap
 category: Web Development
-description: Project 2 was to create a Ruby on Rails app. I wanted to bring together a social media element with one of my great hobbies, 5-a-side football.
+description: Project 2 during WDI was to create a Ruby on Rails web app. I wanted to bring together a social media element with one of my great hobbies, 5-a-side football.
 
 ---
 

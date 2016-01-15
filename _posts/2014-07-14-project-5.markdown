@@ -8,6 +8,6 @@ alt: image-alt
 site-url: <a href="http://njonesy.github.io/Project4-front-end/#/">Get A Game</a>
 client: Start Bootstrap
 category: Web Development
-description: The final project was of course meant to reflect the progress made thrugh the course and I wanted to showcase my new skillset. I believe I did so through this Node/Angluar JS app, bringing a longstanding idea to life.
+description: This dynamic web app, built in a MEAN Stack brings amature sportspeople together. Simply sign up and create a game, which other users can search for. Built in a week, the app currently incorporates search functionality using Angular filters, Google Maps api, Passport authentication and JWT tokens. Still to come is a feature allowing users to search for individual players and a contact system for users to connect.
 
 ---
