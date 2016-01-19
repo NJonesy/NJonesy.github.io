@@ -8,6 +8,6 @@ alt: image-alt
 site-url: <a href="http://njonesy.github.io/Project4-front-end/#/">Get A Game</a>
 client: Start Bootstrap
 category: Web Development
-description: This dynamic web app, built in a MEAN Stack brings amature sportspeople together. Simply sign up and create a game, which other users can search for. Built in a week, the app currently incorporates search functionality using Angular filters, Google Maps api, Passport authentication and JWT tokens. Still to come is a feature allowing users to search for individual players and a contact system for users to connect.
+description: This, the final project of the course is a dynamic web app, built in a MEAN Stack. Designed to bring amature sportspeople together, simply sign up and create a game, which other users can search for. Built in a week, the app currently incorporates search functionality using Angular filters, Google Maps api, Passport authentication and JWT tokens. Still to come is a feature allowing users to search for individual players and a contact system for users to connect.
 
 ---
