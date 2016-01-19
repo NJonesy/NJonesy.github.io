@@ -193,9 +193,10 @@ section h2 {
 
 section.success {
     color: #fff;
-    background-color: #84A0E1;
+    background: url("https://c1.staticflickr.com/5/4011/4550812850_10d35acb9e_b.jpg");
     background-size: cover;
     text-align: center;
+
 }
 
 section.success img {
