@@ -195,6 +195,15 @@ section.success {
     color: #fff;
     background: url("http://insulinpumpfashions.com/images/swatches/blue_denim.jpg");
     background-size: cover;
+    text-align: center;
+}
+
+section.success img {
+    display: block;
+    margin: 0 auto 20px;
+    border: solid;
+    border-width: 8px;
+    border-radius: 10%;
 }
 
 @media(max-width:767px) {
