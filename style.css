@@ -224,6 +224,14 @@ section.success img {
 
 }
 
+#portfolio h2 {
+  color: #051027;
+}
+
+#portfolio .star-primary {
+  color: #051027;
+}
+
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
