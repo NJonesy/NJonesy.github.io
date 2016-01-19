@@ -8,7 +8,7 @@ alt: image-alt
 site-url: <a href="http://amogower.github.io/project-3-front-end/">Pet Sitters</a>
 client: Start Bootstrap
 category: Web Development
-description: The thrird course project was a grpup project, built in a week by myself and three others during the WDI course at GA. Working in a team carried a new challenge, but one I thrived on. We set out to create a dynamic web application with a solid back-end api that we felt demonstrated a real business/revenue mindset. Tech used includes Node, MongoDB, Jquery, Ajax, Semantic UI.
+description: The third course project was a grpup project, built in a week by myself and three others during the WDI course at GA. Working in a team carried a new challenge, but one I thrived on. We set out to create a dynamic web application with a solid back-end api that we felt demonstrated a real business/revenue mindset. Tech used includes Node, MongoDB, Jquery, Ajax, Semantic UI.
 
 ---
 
