@@ -153,6 +153,7 @@ header .intro-text .skills {
     .navbar-fixed-top.navbar-shrink {
         padding: 10px 0;
         background-color: #051027;
+        opacity: .5;
     }
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
