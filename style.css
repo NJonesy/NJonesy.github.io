@@ -414,6 +414,10 @@ footer .footer-below {
     background-color: #051027;
 }
 
+.fa-envelope {
+  margin: 20px;
+}
+
 .btn-social {
     display: inline-block;
     width: 50px;
